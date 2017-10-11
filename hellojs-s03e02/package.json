@@ -1,0 +1,19 @@
+{
+  "name": "hellojs-s03e02",
+  "version": "1.0.0",
+  "description": "My first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "test",
+    "hellojs"
+  ],
+  "author": "leo",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "express": "^4.16.2"
+  }
+}
